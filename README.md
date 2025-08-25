@@ -2,6 +2,19 @@
 
 Good old Minesweeper game written in C Language.
 
+## Getting Started
+
+Make sure you have compiler installed:  
+```sh
+apt install build-essential
+gcc --version
+```
+
+Compile and Run:  
+```sh
+gcc main.c -o main.bin && ./main.bin
+```
+
 ## Licence
 
 Tensor-library is licensed under the terms of [MPL-2.0](https://mozilla.org/MPL/2.0/), which is simple and straightforward to use, allowing this project to be combined and distributed with any proprietary software, even with static linking. If you modify, only the originally covered files must remain under the same MPL-2.0.
