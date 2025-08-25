@@ -135,6 +135,9 @@ void addProximities(int rows, int cols, char ** map) {
 }
 
 
+// Declare first
+void reveal_zero_region(int rows, int cols, int r, int c, char ** map, bool ** view, bool ** flagged, bool recursively);
+
 bool open_cell(int rows, int cols, int r, int c, char ** map, bool ** view, bool ** flagged) {
     system("clear");
 
