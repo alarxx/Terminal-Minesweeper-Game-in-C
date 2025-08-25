@@ -5,7 +5,9 @@ This Source Code Form is subject to the terms of the Mozilla Public License, v. 
 If a copy of the MPL was not distributed with this file,
 You can obtain one at https://mozilla.org/MPL/2.0/.
 
-Good old Minesweeper game written in C Language.
+This file is part of the https://github.com/alarxx/Terminal-Minesweeper-Game-in-C.
+
+Description: Good old Minesweeper game written in C Language.
 
 Provided “as is”, without warranty of any kind.
 
